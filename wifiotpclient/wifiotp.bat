@@ -1,0 +1,1 @@
+C:\Users\ehuseynov\Google Drive\wifiotp\WinConnector\WiFiOTPClientwifiscanner.exe  /stext  C:\Users\EHUSEY~1\AppData\Local\Temp\wifiotp.tmp
